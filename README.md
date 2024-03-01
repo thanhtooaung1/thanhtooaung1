@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thanhtooaung1
+- 👋 Hi, I’m thanhtooaung
 - 👀 I’m interested in coding, reading
 - 🌱 I’m currently learning react, laravel, typescript
 - 💞️ I’m looking to collaborate on react and laravel project
